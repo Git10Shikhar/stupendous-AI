@@ -1,1 +1,1 @@
-# stupendous-AI
+# tkinter based music player
