@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 14 11:40:13 2019
 
-@author: vivek
-"""
 #Basic Python Music Player - using tkinter and pygame
 
 from tkinter import *
